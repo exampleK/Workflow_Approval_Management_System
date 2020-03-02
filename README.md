@@ -9,9 +9,9 @@
 4.增加查询条件姓名和时间  
 
 
-(https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji1.PNG)  
-(https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji2.PNG)  
-(https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji3.PNG)  
+![image](https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji1.PNG)  
+![image](https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji2.PNG)  
+![image](https://github.com/exampleK/Workflow_Approval_Management_System/blob/master/img/yeji3.PNG)  
 
 
 #(1)
